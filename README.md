@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/dcycle/docker-typescript.svg?style=svg)](https://circleci.com/gh/dcycle/docker-typescript)
+[![GitHub Actions](https://github.com/dcycle/docker-jenkins/actions/workflows/config.yml/badge.svg)](../../actions/workflows/config.yml)
 
 Check or compile Typescript.
 
